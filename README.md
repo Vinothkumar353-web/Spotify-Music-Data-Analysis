@@ -7,14 +7,14 @@ This project aims to explore and analyze a dataset of songs available on Spotify
 - **Features Included**:
   - `track_name`, `artist`, `album_name`
   - `year`, `language`, `popularity`
-  - `danceability`, `energy`, `acousticness`, `valence`, `duration_ms`
+  - `danceability`, `energy`, `duration_ms`
 
 ---
 
 ## 🛠️ Tools & Libraries
 - Python
-- pandas, matplotlib, seaborn
-- Jupyter Notebook / Google Colab
+- pandas, matplotlib
+- Google Colab
 
 ---
 
@@ -34,11 +34,6 @@ This project aims to explore and analyze a dataset of songs available on Spotify
 
 ### 🔸 Popularity by Language
 - Bar chart showing average popularity of songs grouped by `language`
-
-### 🔸 Feature Distributions
-- Histograms and box plots for features like energy, valence, acousticness
-- Analyzed how these features vary across years and languages
-
 ---
 
 ## 📈 Key Insights
